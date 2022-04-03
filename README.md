@@ -1,7 +1,6 @@
 ### Welcome to my profile!
 - I’m currently working on improving my code
 - Completing a Informatic Systems Engineering Degree
-- Pronouns: Presentation
 
 ##
 
