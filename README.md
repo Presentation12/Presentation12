@@ -9,6 +9,11 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+  <img align="center" alt="Css" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Html" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="[https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg)">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
 </div>
 
 ##
