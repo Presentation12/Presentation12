@@ -8,7 +8,7 @@
 <div style="display: inline_block">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
 </div>
 
 ##
