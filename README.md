@@ -17,13 +17,12 @@
 </div>
 
 ##
-
-### Git Stats:
+  
+  ### Git Stats:
 <div align="center">
-  <a href="https://github.com/Presentation12">
+  <a href="https://github.com/Presentation12%22%3E">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Presentation12&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true%22/%3E"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Presentation12&layout=compact&langs_count=7&theme=great-gatsby%22/%3E"/>
-</div>
+  </div>
   
   ## 
   <div style="display: inline_block" align="center">
