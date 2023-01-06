@@ -14,6 +14,8 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" alt="Postgres" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg">
 </div>
 
 ##
